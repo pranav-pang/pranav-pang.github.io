@@ -8,6 +8,4 @@ Currently, a major area of investigation in the field of autonomous vehicle desi
 Our baseline goals for this project are enabling static and dynamic autonomous obstacle avoidance, that is avoiding stationary and moving objects. Our reach goal for the project is to autonomously overtake another car, similar to how a car might pass another while traveling on a highway.
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 
