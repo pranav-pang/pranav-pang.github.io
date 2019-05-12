@@ -7,7 +7,7 @@ We are currently sophomore engineering students at the University of Pennsylvani
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+For more information about F 1/10 visit http://f1tenth.org/ 
 
 ### Contact Us
 
